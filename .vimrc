@@ -19,4 +19,5 @@ set showmatch " show matching [{()}]
 set incsearch " seach as characters are entered
 set hlsearch " hightlight seach matches
 
-let @r = ':!python %'
+" Turn Autoindent On
+set autoindent
