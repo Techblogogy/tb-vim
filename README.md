@@ -2,6 +2,6 @@
 My .vimrc and colorsheme
 
 To Run Setup:
-"""bash
+```bash
   sh setup.sh
-"""
+```
